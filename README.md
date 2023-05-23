@@ -24,7 +24,7 @@ In addition to the book's examples and exercises, this repository also includes 
 
 Feel free to explore the code examples and exercises in this repository. You can navigate through the directories to find the relevant materials for your study or programming practice.
 
-Please note that the code examples and exercises are organized according to the chapters and sections of the book. You may find subdirectories within the "exercises" directory, corresponding to different chapters or exercise categories. The external examples from university class are located in a separate directory, labeled to distinguish them from the book's materials.
+Please note that the code examples and exercises are organized according to the chapters and sections of the book. The external examples from university class are located in a separate directory, labeled to distinguish them from the book's materials.
 
 You are encouraged to study and experiment with both the book's examples/exercises and the external examples to deepen your understanding of C programming concepts and improve your coding skills.
 
