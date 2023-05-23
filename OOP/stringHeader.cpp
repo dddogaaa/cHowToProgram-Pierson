@@ -1,3 +1,7 @@
+// Fig. 16.3: fig16_03.cpp
+// Define class GradeBook with a member function that takes a parameter,
+// create a GradeBook object and call its displayMessage function.
+
 #include <iostream>
 #include <string>
 
