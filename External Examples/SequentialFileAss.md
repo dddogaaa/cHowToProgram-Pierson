@@ -18,7 +18,7 @@ The manager of a 30-apartment building wants to record monthly dues collection i
 
 7. The program should be able to update the information of a specific apartment or any other incorrect data entry by the manager, by entering the new information from the screen and writing it back to the sequential file.
 
-8.The program should have the ability to delete a record of any apartment from the file.
+8. The program should have the ability to delete a record of any apartment from the file.
 
 9. The program should have a menu-based system to select the desired operation, and after each operation is completed, the menu should be displayed again for selecting a new operation. Only the menu for selecting operations should be displayed on the screen.
 
